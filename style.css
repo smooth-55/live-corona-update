@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    display: flex;
+    /* flex-direction: col; */
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 10px;
+}
+
+.datas{
+    padding-top: 10px;
+}
+
+.card__label{
+    font-weight: bold;
+    
+}
